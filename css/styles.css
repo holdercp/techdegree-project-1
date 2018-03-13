@@ -76,8 +76,9 @@ body {
   width: 12em;
   border: 2px solid #fff;
   border-radius: 4px;
-  background-color: #36b55c;
+  background: rgba(0, 0, 0, 0.3);
   color: #fff;
+  opacity: 1;
   transition: 0.5s;
 }
 
