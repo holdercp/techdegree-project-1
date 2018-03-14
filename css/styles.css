@@ -66,6 +66,15 @@ body {
   font-style: normal;
 }
 
+.tags {
+  list-style: none;
+  text-align: right;
+}
+
+.tags > li {
+  display: inline-block;
+}
+
 #loadQuote {
   position: fixed;
   bottom: 150px;
