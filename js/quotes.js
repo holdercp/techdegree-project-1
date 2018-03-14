@@ -9,12 +9,9 @@ const quotes = [
     source: 'Abraham Lincoln',
   },
   {
-    quote:
-      "The grass is always greener once you don't have to mow a lawn anymore.",
-    source: 'Randy K. Milholland',
-    citation: 'Something Positive',
-    year: '2013',
-    tags: ['Maturity'],
+    quote: 'I often quote myself. It adds spice to my conversation.',
+    source: 'George Bernard Shaw',
+    tags: ['Quotations', 'Conversation'],
   },
   {
     quote: 'Virtue is choked with foul ambition.',
@@ -30,9 +27,10 @@ const quotes = [
   {
     quote:
       "The grass is always greener once you don't have to mow a lawn anymore.",
-    source: 'Oscar Wilde',
-    citation: 'An Ideal Husband',
-    year: '1893',
+    source: 'Randy K. Milholland',
+    citation: 'Something Positive, Young Hope',
+    year: '2013',
+    tags: ['Maturity'],
   },
   {
     quote:
